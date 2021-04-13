@@ -1,0 +1,12 @@
+{
+    "name": "energy-solution/project-entity",
+    "description": "test entity between project",
+    "authors": [
+        {
+            "name": "aurelsensei",
+            "email": "aurelien.ursulet@gmail.com"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
