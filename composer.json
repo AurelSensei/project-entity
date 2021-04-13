@@ -7,6 +7,6 @@
             "email": "aurelien.ursulet@gmail.com"
         }
     ],
-    "minimum-stability": "alpha",
+    "minimum-stability": "dev",
     "require": {}
 }
